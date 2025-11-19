@@ -62,7 +62,7 @@ Analyse de performances
 
 PDF, badges, notebooks, supports
 
-🛠 Structure du dépôt (ult)
+🛠 Structure du dépôt 
 DATA_ANALYST_PORTFOLIO/
 │── SQL/
 │── PYTHON/
