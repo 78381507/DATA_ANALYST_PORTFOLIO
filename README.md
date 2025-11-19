@@ -1,4 +1,4 @@
-📊 François Tilkin — Data Analyst / Data & AI Operator
+📊 François Tilkin — Data Analyst Junior / Data & AI Operator (Futur)
 
 Google Data Analytics Certified (2025)
 
@@ -53,11 +53,11 @@ PDF, badges, notebooks, supports
 
 🔗 Liens utiles
 
-LinkedIn : (ajoute ton lien)
+LinkedIn : www.linkedin.com/in/françois-tilkin-1667b138a
 
 Kaggle : (à venir)
 
-Email pro : (optionnel)
+Email pro : tilkinfrancois@hotmail.com
 
 🛠 Structure du dépôt
 DATA_ANALYST_PORTFOLIO/
@@ -71,4 +71,4 @@ DATA_ANALYST_PORTFOLIO/
 🚀 À propos
 
 Professionnel méthodique, orienté solutions, passionné par l'analyse et l'optimisation.
-Objectif 2026 : Data Analyst confirmé → Data & AI Operator.
+Objectif 2027 : Data Analyst confirmé → Data & AI Operator.
