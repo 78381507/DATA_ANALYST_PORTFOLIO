@@ -28,7 +28,7 @@ Google Data Analytics Professional Certificate (v2) + Gies College of Business D
 
 
 📊 Étude de cas : Bellabeat  
-→ [Dossier complet de l’étude](lien-vers-le-dossier-sur-github)  
+→ [Dossier complet de l’étude](https://github.com/78381507/DATA_ANALYST_PORTFOLIO)  
 Google Sheet + Word: (Nettoyage, analyse, dashboards, insights business et recommandations)
 SQL: (a venir)
 R: (a venir)
