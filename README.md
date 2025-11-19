@@ -27,6 +27,13 @@ Google Data Analytics Professional Certificate (v2) + Gies College of Business D
 🔗 https://www.credly.com/badges/86f9af33-2004-4c8a-88c4-2ec4106a166f/public_url
 
 
+📊 Étude de cas : Bellabeat  
+→ [Dossier complet de l’étude](lien-vers-le-dossier-sur-github)  
+Google Sheet + Word: (Nettoyage, analyse, dashboards, insights business et recommandations)
+SQL: (a venir)
+R: (a venir)
+
+
 📁 Projets (à venir prochainement)
 
 🔹 SQL
