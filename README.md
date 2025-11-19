@@ -1,9 +1,9 @@
 📊 François Tilkin — Data Analyst Junior / Data & AI Operator (Futur)
 
 Google Data Analytics Certified (2025)
-
 Je combine analyse, rigueur, et efficacité opérationnelle pour transformer les données en décisions claires.
 Voici mon portfolio contenant mes projets, dashboards, notebooks et travaux en SQL / Python / BI.
+
 
 🧠 Compétences principales
 
@@ -19,12 +19,16 @@ Business & Ops : optimisation, workflows, reporting, KPIs
 
 Outils : Excel avancé, Jupyter, Kaggle, GitHub
 
+
 🎓 Certifications
 
-Google Data Analytics Professional Certificate (v2) — Coursera / Google
-(Badge vérifiable via Credly)
+* Coursera / Google
+Google Data Analytics Professional Certificate (v2) + Gies College of Business Dual Credential
+🔗 https://www.credly.com/badges/86f9af33-2004-4c8a-88c4-2ec4106a166f/public_url
+
 
 📁 Projets (à venir prochainement)
+
 🔹 SQL
 
 Cleaning + KPIs + queries
@@ -51,15 +55,7 @@ Analyse de performances
 
 PDF, badges, notebooks, supports
 
-🔗 Liens utiles
-
-LinkedIn : www.linkedin.com/in/françois-tilkin-1667b138a
-
-Kaggle : (à venir)
-
-Email pro : tilkinfrancois@hotmail.com
-
-🛠 Structure du dépôt
+🛠 Structure du dépôt (ult)
 DATA_ANALYST_PORTFOLIO/
 │── SQL/
 │── PYTHON/
@@ -68,7 +64,16 @@ DATA_ANALYST_PORTFOLIO/
 │── CERTIFICATES/
 └── README.md
 
+
 🚀 À propos
 
 Professionnel méthodique, orienté solutions, passionné par l'analyse et l'optimisation.
 Objectif 2027 : Data Analyst confirmé → Data & AI Operator.
+
+LinkedIn : www.linkedin.com/in/françois-tilkin-1667b138a
+Email pro : tilkinfrancois@hotmail.com
+Kaggle : (à venir)
+
+
+
+
