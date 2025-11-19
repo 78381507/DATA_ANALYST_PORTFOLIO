@@ -78,8 +78,8 @@ Professionnel méthodique, orienté solutions, passionné par l'analyse et l'opt
 Objectif 2027 : Data Analyst confirmé → Data & AI Operator.
 
 LinkedIn : www.linkedin.com/in/françois-tilkin-1667b138a
-Email pro : tilkinfrancois@hotmail.com
-Kaggle : (à venir)
+Email pro : tilkinanalytics@gmail.com
+Kaggle : 30770908
 
 
 
