@@ -73,17 +73,10 @@ https://github.com/78381507/DATA_ANALYST_PORTFOLIO
 
 ## 📬 Contact
 
-- LinkedIn : https://www.linkedin.com/in/françois-tilkin  
+- LinkedIn : www.linkedin.com/in/françois-tilkin-1667b138a
 - GitHub : https://github.com/78381507/DATA_ANALYST_PORTFOLIO
-
-🛠 Structure du dépôt 
-DATA_ANALYST_PORTFOLIO/
-│── SQL/
-│── PYTHON/
-│── TABLEAU/
-│── POWERBI/
-│── CERTIFICATES/
-└── README.md
+- Kaggle : 30770908
+- Email pro : tilkinanalytics@gmail.com
 
 
 🚀 À propos
@@ -91,9 +84,9 @@ DATA_ANALYST_PORTFOLIO/
 Professionnel méthodique, orienté solutions, passionné par l'analyse et l'optimisation.
 Objectif 2027 : Data Analyst confirmé → Data & AI Operator.
 
-LinkedIn : www.linkedin.com/in/françois-tilkin-1667b138a
-Email pro : tilkinanalytics@gmail.com
-Kaggle : 30770908
+
+
+
 
 
 
