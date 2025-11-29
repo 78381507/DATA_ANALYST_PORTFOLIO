@@ -1,6 +1,6 @@
 # François Tilkin — Data Analyst Junior | Data & AI Operator (en devenir)
 
-Certifié **Google Data Analytics (2025)** et actuellement en formation **IBM Data Analyst**, je combine analyse, rigueur et efficacité opérationnelle pour transformer les données en décisions claires et actionnables.
+Certifié **Google Data Analytics (2025)** et actuellement en formation **IBM Data Analyst**, je combine analyse, rigueur, et efficacité opérationnelle pour transformer les données en décisions claires et actionnables.
 
 Ce portfolio présente mes projets, dashboards, notebooks et travaux en **R / Python / SQL / BI**.
 
@@ -16,7 +16,7 @@ Ce portfolio présente mes projets, dashboards, notebooks et travaux en **R / Py
 - Requêtes, jointures, CTE, agrégations, fonctions analytiques
 
 ### Python
-- Pandas, NumPy, visualisation (Matplotlib/Seaborn)  
+- Pandas, NumPy, visualisation (Matplotlib et Seaborn)  
 - EDA, préparation de données
 
 ### R
@@ -30,7 +30,7 @@ Ce portfolio présente mes projets, dashboards, notebooks et travaux en **R / Py
 
 ### Outils
 - Excel avancé (Power Query, formules, TCD)  
-- Jupyter, GitHub, Kaggle, Google Sheets
+- Jupyter, VS Code, Git & GitHub, Kaggle, Google Sheets
 
 ---
 
@@ -75,14 +75,14 @@ https://github.com/78381507/DATA_ANALYST_PORTFOLIO
 
 - LinkedIn : www.linkedin.com/in/françois-tilkin-1667b138a
 - GitHub : https://github.com/78381507/DATA_ANALYST_PORTFOLIO
-- Kaggle : 30770908
+- Kaggle : https://www.kaggle.com/datasets/francoistilkin/portfolio-bellabeat
 - Email pro : tilkinanalytics@gmail.com
 
 
 🚀 À propos
 
-Professionnel méthodique, orienté solutions, passionné par l'analyse et l'optimisation.
-Objectif 2027 : Data Analyst confirmé → Data & AI Operator.
+Professionnel méthodique, orienté solutions, passionné par l’analyse, la rigueur opérationnelle et l’optimisation continue.
+Objectif 2027 : Data Analyst confirmé → Data Engineer → Data/AI Operator.
 
 
 
