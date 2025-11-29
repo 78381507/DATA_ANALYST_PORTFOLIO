@@ -1,66 +1,80 @@
-📊 François Tilkin — Data Analyst Junior / Data & AI Operator (Futur)
+# François Tilkin — Data Analyst Junior | Data & AI Operator (en devenir)
 
-Google Data Analytics Certified (2025)
-Je combine analyse, rigueur, et efficacité opérationnelle pour transformer les données en décisions claires.
-Voici mon portfolio contenant mes projets, dashboards, notebooks et travaux en SQL / Python / BI.
+Certifié **Google Data Analytics (2025)** et actuellement en formation **IBM Data Analyst**, je combine analyse, rigueur et efficacité opérationnelle pour transformer les données en décisions claires et actionnables.
 
+Ce portfolio présente mes projets, dashboards, notebooks et travaux en **R / Python / SQL / BI**.
 
-🧠 Compétences principales
+---
 
-Data Analytics : nettoyage, préparation, analyse, visualisation
+## 🧠 Compétences principales
 
-SQL : requêtes, jointures, agrégations, KPIs
+### Data Analytics
+- Nettoyage, préparation, analyses descriptives et exploratoires  
+- KPIs, insights business, recommandations
 
-Python : Pandas, NumPy, analyse exploratoire (EDA)
+### SQL
+- Requêtes, jointures, CTE, agrégations, fonctions analytiques
 
-Visualisation : Tableau, Power BI
+### Python
+- Pandas, NumPy, visualisation (Matplotlib/Seaborn)  
+- EDA, préparation de données
 
-Business & Ops : optimisation, workflows, reporting, KPIs
+### R
+- tidyverse (dplyr, tidyr, ggplot2)  
+- R Markdown, visualisations, analyses statistiques
 
-Outils : Excel avancé, Jupyter, Kaggle, GitHub
+### BI & Visualisation
+- Power BI  
+- Tableau (basics)  
+- Dashboards orientés business
 
+### Outils
+- Excel avancé (Power Query, formules, TCD)  
+- Jupyter, GitHub, Kaggle, Google Sheets
 
-🎓 Certifications
+---
 
-* Coursera / Google
-Google Data Analytics Professional Certificate (v2) + Gies College of Business Dual Credential
-🔗 https://www.credly.com/badges/86f9af33-2004-4c8a-88c4-2ec4106a166f/public_url
+## 🎓 Certifications
 
+- **Google / Coursera — Google Data Analytics Professional Certificate (v2)**  
+  🔗 https://www.credly.com/badges/86f9af33-2004-4c8a-88c4-2ec4106a166f/public_url
 
-📊 Étude de cas : Bellabeat  
-→ [Dossier complet de l’étude](https://github.com/78381507/DATA_ANALYST_PORTFOLIO)  
-Google Sheet + Word: (Nettoyage, analyse, dashboards, insights business et recommandations)
-SQL: (a venir)
-R: (a venir)
+- **Google — Google Data Analytics Professional Certification**
 
+- **IBM — IBM Data Analyst (en cours)**
 
-📁 Projets (à venir prochainement)
+---
 
-🔹 SQL
+## 📊 Étude de cas : Bellabeat (Google)
 
-Cleaning + KPIs + queries
+📌 **Technos utilisées : R, RStudio, tidyverse, ggplot2, dplyr, tidyr**
 
-Analyse opérationnelle
+📁 **Dossier complet :**  
+https://github.com/78381507/DATA_ANALYST_PORTFOLIO
 
-Études de cas structurées
+🔍 **Contenu :**
+- Nettoyage & fusion datasets  
+- Analyse exploratoire (EDA)  
+- Visualisations (tendances activité, sommeil, intensité)  
+- Insights business & recommandations marketing  
+- Rapport structuré + dashboard Sheets
 
-🔹 Python (Pandas / EDA)
+---
 
-Exploratory Data Analysis
+## 🚀 Projets (ajouts prochains)
 
-Visualisations rapides
+- SQL : Cleaning + KPIs + requêtes complexes  
+- Python : analyses Pandas / visualisations  
+- BI : dashboard Power BI  
+- Étude de cas structurée (logistique / opérations)  
+- Analyse opérationnelle inspirée de missions terrain
 
-🔹 Tableau / Power BI
+---
 
-Dashboards dynamiques
+## 📬 Contact
 
-KPIs business
-
-Analyse de performances
-
-🔹 Certifications & Docs
-
-PDF, badges, notebooks, supports
+- LinkedIn : https://www.linkedin.com/in/françois-tilkin  
+- GitHub : https://github.com/78381507/DATA_ANALYST_PORTFOLIO
 
 🛠 Structure du dépôt 
 DATA_ANALYST_PORTFOLIO/
