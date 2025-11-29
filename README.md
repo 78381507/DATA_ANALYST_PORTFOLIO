@@ -1,4 +1,4 @@
-# François Tilkin — Data Analyst Junior | Data & AI Operator (en devenir)
+# François Tilkin — Data Analyst | Data/AI Operator (en devenir)
 
 Certifié **Google Data Analytics (2025)** et actuellement en formation **IBM Data Analyst**, je combine analyse, rigueur, et efficacité opérationnelle pour transformer les données en décisions claires et actionnables.
 
@@ -53,8 +53,8 @@ Ce portfolio présente mes projets, dashboards, notebooks et travaux en **R / Py
 https://github.com/78381507/DATA_ANALYST_PORTFOLIO
 
 🔍 **Contenu :**
-- Nettoyage & fusion datasets  
-- Analyse exploratoire (EDA)  
+- Nettoyage data   
+- Fusion datasets
 - Visualisations (tendances activité, sommeil, intensité)  
 - Insights business & recommandations marketing  
 - Rapport structuré + dashboard Sheets
